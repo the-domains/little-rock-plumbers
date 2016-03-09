@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Little Rock Plumbers]]></title>
         <description><![CDATA[Little Rock Plumbers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/little-rock-plumbers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:36:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 15:37:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/little-rock-plumbers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9369d9c7-6341-418d-8f0c-7ec4e4fc419b.jpg">]]></description>
-            <link>undefined93f25a49-5ee0-4784-8025-81763b7db55c/index.html</link>
+            <link>https://thegrid.ai/little-rock-plumbers/93f25a49-5ee0-4784-8025-81763b7db55c/index.html</link>
             <guid isPermaLink="false">93f25a49-5ee0-4784-8025-81763b7db55c</guid>
-            <pubDate>Wed, 09 Mar 2016 15:36:45 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 15:37:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
