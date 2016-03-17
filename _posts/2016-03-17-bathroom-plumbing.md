@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T17:17:32.772Z'
-dateModified: '2016-03-17T17:17:01.730Z'
+datePublished: '2016-03-17T17:17:39.790Z'
+dateModified: '2016-03-17T17:17:34.342Z'
 title: Bathroom Plumbing
 author: []
+sourcePath: _posts/2016-03-17-bathroom-plumbing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-bathroom-plumbing.md
-published: true
 url: bathroom-plumbing/index.html
 _type: Article
 
