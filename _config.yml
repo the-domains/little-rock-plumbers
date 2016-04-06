@@ -1,4 +1,4 @@
-name: Little Rock Plumbers
+name: Little Rock Plumbers 501-666-9483
 favicon: null
 layout_spectrum: 0.48145
 typography_spectrum: 0.327496871817857
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0
+  brandStrength: 0.125
   lightness: 0.3125
-  saturation: 0
-  rhythmicContrast: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
